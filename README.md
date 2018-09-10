@@ -29,7 +29,7 @@ The user will then be asked to input how much of their chosen item they would li
 
 If the user selects a quantity of their chosen item which can be fufilled by the store, then their total price of their purchase will be printed to the console like so:
 
-![Successful Purchase Screen](./Screenshots/Terminal4png.PNG)
+![Successful Purchase Screen](./Screenshots/Terminal4.png.PNG)
 
 
 ##### Making another purchase
