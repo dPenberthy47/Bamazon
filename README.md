@@ -8,3 +8,9 @@ Bamazon will require you to download the latest version of the MySQL workbench t
 1. Inquirer (npm install inquirer
 
 ![MySQL Table](./Screenshots/MySQL_Table.png.PNG)
+![Welcome Screen](./Screenshots/Terminal2.png.PNG)
+![Enter Item Screen](./Screenshots/Terminal3.png.PNG)
+![Successful Purchase Screen](./Screenshots/Terminal4png.PNG)
+![Second Purchase Screen](./Screenshots/Terminal5.png.PNG)
+![Failed Purchase Screen](./Screenshots/Terminal6.png.PNG)
+![End Connection Screen](./Screenshots/Terminal7.png.PNG)
