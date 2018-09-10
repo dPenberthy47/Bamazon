@@ -6,3 +6,4 @@ Requirements
 Bamazon will require you to download the latest version of the MySQL workbench to your computer. You will also need to download the following npm packages to your computers terminal:
 1. MySQL (npm install mysql)
 1. Inquirer (npm install inquirer
+
